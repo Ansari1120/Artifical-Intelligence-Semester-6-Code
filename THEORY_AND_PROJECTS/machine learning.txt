@@ -1,0 +1,7 @@
+https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
+
+
+https://www.guru99.com/download-install-tensorflow.html
+
+
+machine learning tenserflow framework coded in jupyter notebook anaconda python
